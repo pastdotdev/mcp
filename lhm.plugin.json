@@ -1,0 +1,24 @@
+{
+  "identifier": "past-dev",
+  "name": "past.dev",
+  "version": "1.0.0",
+  "description": "Memory for AI agents. Send timestamped text and get back the facts that are current, each with its dated source and the history behind it, so an agent knows what changed and what it replaced. Ranked first on BEAM at every history size from 100K to 10M tokens, with the method and the evaluation harness published.",
+  "author": "past.dev",
+  "authorUrl": "https://past.dev",
+  "homepage": "https://past.dev",
+  "cloudEndpoint": "https://app.past.dev/mcp",
+  "category": "developer",
+  "icon": "https://raw.githubusercontent.com/pastdotdev/mcp/main/assets/icon.png",
+  "tags": ["memory", "agent-memory", "long-term-memory", "context", "rag", "temporal", "api"],
+  "tools": [
+    { "name": "search_docs", "description": "Search the past.dev developer documentation, Memory API and MCP server, over the full corpus." },
+    { "name": "read_page", "description": "Read one documentation page as Markdown." },
+    { "name": "list_pages", "description": "List every documentation page with its product, slug, title and URL." },
+    { "name": "recall", "description": "Ask what is true now and get the current facts with their dated sources." },
+    { "name": "remember", "description": "Send timestamped text for the memory to hold." },
+    { "name": "answer", "description": "Answer a question from memory, with the evidence behind it." },
+    { "name": "get_timeline", "description": "Read how a fact changed over time." },
+    { "name": "get_lineage", "description": "Trace a fact back to the sources it came from." },
+    { "name": "explain_ingestion", "description": "Explain what one send produced and why." }
+  ]
+}
