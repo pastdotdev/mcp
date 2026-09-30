@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "past": {
+      "type": "http",
+      "url": "https://app.past.dev/mcp"
+    },
+    "past-docs": {
+      "type": "http",
+      "url": "https://past.dev/mcp"
+    }
+  }
+}
