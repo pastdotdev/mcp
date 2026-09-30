@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "dev.past/past",
   "title": "past.dev",
-  "description": "Memory for AI agents. Search the past.dev documentation, and administer an organization, its projects, keys, members, access, plan and usage.",
+  "description": "Memory for AI agents. Ask what is true now, get the facts back with their dated sources.",
   "version": "0.1.0",
   "websiteUrl": "https://past.dev/docs/mcp/overview",
   "remotes": [
