@@ -3,6 +3,10 @@
   "name": "dev.past/past",
   "title": "past.dev",
   "description": "Memory for AI agents. Ask what is true now, get the facts back with their dated sources.",
+  "repository": {
+    "url": "https://github.com/pastdotdev/mcp",
+    "source": "github"
+  },
   "version": "0.1.0",
   "websiteUrl": "https://past.dev/docs/mcp/overview",
   "remotes": [
